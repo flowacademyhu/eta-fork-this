@@ -6,7 +6,7 @@ Itt jártam. Nóri
 Hello
 I'll be back,I
 Itt jartam én is
-
+Pisti
 
 ## Józsi itt járt
 
