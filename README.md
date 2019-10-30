@@ -14,6 +14,7 @@ Mihaly Dombi=
 ## ASD ASD
 itt jartam, dori
 valami valami valami
+meg valami
 ## Józsi itt járt
 jano wuz here
 ## Itt voltam
