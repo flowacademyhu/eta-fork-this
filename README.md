@@ -1,8 +1,19 @@
+
 Itt jártam. Nóri
 # eta-fork-this
 
 Itt járt Tomi!
 ## Ide lehet az itt jartam tageket rakni
+Hello
+I'll be back,I
+Itt jartam én is
+Pisti
+
+Pisti
+## Józsi itt járt
+
+
+# Klau voltam.
 
 
 Itt is jártam Laci 
@@ -21,5 +32,4 @@ jano wuz here
 Itt jartam #berentepeter
 
 # K_Tomi
-
 
