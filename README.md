@@ -13,6 +13,8 @@ Pisti
 ## Józsi itt járt
 
 
+# Klau voltam.
+
 
 Itt is jártam Laci 
 
@@ -29,5 +31,4 @@ jano wuz here
 Itt jartam #berentepeter
 
 # K_Tomi
-
 
